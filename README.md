@@ -21,34 +21,6 @@ Technologies Used
 	•	Data Sources: [List APIs or data feeds you use, e.g., USGS Earthquake API, NASA, weather APIs]
 	•	Hosting & Deployment: [Heroku, AWS, Replit, Vercel, etc.]
 
-Installation
-	1.	Clone the repository:
-
-git clone https://github.com/your-username/crisis-map-tracking-app.git
-cd crisis-map-tracking-app
-
-
-	2.	Install dependencies:
-
-npm install
-# or
-yarn install
-
-
-	3.	Setup environment variables:
-Create a .env file in the root directory and add your API keys and config:
-
-API_KEY=your_api_key_here
-OTHER_CONFIG=value
-
-
-	4.	Run the app locally:
-
-npm start
-# or
-yarn start
-
-
 
 Usage
 	•	Open the app in your browser at http://localhost:3000.
